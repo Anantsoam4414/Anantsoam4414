@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantsoam4414&label=Profile%20views&color=0e75b6&style=flat" alt="anantsoam4414" /> </p>
 
-- 🔭 I’m currently working on **Trade_Shift Project,HealthSphere**
+- 🔭 I’m currently working on **Python,DevOps**
 
-- 🌱 I’m currently learning **Spring Boot framework,RESTApi,Maven,JPA**
+- 🌱 I’m currently learning **Spring Boot framework,RESTApi,Terraform,Docker,ect.**
 
 - 👯 I’m looking to collaborate on **Trade_Shift,HealthSphere**
 
